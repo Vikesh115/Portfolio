@@ -1,5 +1,5 @@
 import "./ContactPage.css";
-import shop from "../assets/shop.jpg";
+import contact from "../assets/contact.jpg";
 import React from "react";
 
 const ContactPage = ({ theme, setTheme }) => {
@@ -19,7 +19,7 @@ const ContactPage = ({ theme, setTheme }) => {
         <div className="contactpage">
             <div className="contact">
                 <div className="contact1">Contact Us</div>
-                <img className="piccs" src={shop} alt="" />
+                <img className="piccs" src={contact} alt="" />
             </div>
 
             <div className="formss">

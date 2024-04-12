@@ -17,22 +17,21 @@
     align-items: center;
     border-radius: 4%;
     margin-left: 80px;
-    /* padding: 30px; */
 }
 
 .contact1{
     display: flex;
     font-size: 40px;
     font-weight: 800;
-    /* margin-left: 110px; */
+    width: 540px;
     justify-content: center;
     color: #fff;
     font-family: sans-serif;
 } 
 
 .piccs{
-    width: 360px;
-    height: 400px;
+    width: 80%;
+    height: 80%;
     margin-left: 60px;
     border-radius: 4%;
 }
@@ -60,7 +59,7 @@
     margin-left: 60%;
 }
 .button{
-    margin-left: 60%;
+    margin-left: 80%;
 }
 
 

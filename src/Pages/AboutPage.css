@@ -1,0 +1,23 @@
+.aboutpage{
+    background: #fff;
+    transition: 0.4s;
+    padding: 14px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about{
+    flex: 1;
+    justify-content: space-evenly;
+    font-size: 60px;
+    /* padding: 12px 7%; */
+    display: flex;
+    border-radius: 4;
+}
+
+.dark .aboutpage{
+    background: #000;
+    color: #fff;
+}

@@ -13,9 +13,10 @@
 }
 
 .lapoo{
-    margin-left: 540px;
-    height: 80%;
-    width: 60%;
+    margin-left: 360px;
+    /* height: 80%; */
+    /* margin-right: 30px; */
+    width: 70%;
 }
 
 .homepage .name1{
@@ -46,5 +47,11 @@
 
 .button:hover {
     background-color: rgb(26, 153, 0);
+}
+
+.row{
+    display: flex;
+
+    align-items: end;
 }
 
